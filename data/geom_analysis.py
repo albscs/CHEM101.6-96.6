@@ -5,7 +5,7 @@ When run as a script and given an xyz file, this script will print out the bonds
 
 $ python geometry_analysis.py --help
 
-to see input options.
+to see input options. change
 """
 
 import numpy
